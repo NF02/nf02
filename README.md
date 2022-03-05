@@ -1,4 +1,4 @@
-### Hello there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231EF761&lines=Hello+there!)](https://git.io/typing-svg)
 ```
  _   _ _______     ___     _
 | \ | |  ___\ \   / / |__ | | ___   __ _
