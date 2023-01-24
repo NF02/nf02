@@ -7,8 +7,7 @@
 |_| \_|_|      \_/  |_.__/|_|\___/ \__, |
                                    |___/
 ```
-<p><img align="left" height:"200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nf02&show_icons=true&locale=en&layout=compact" alt="nf02" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nf02&show_icons=true&theme=radical)
 #### What do I do?
 Basically I deal with Unix and Unix-Like systems, mostly Linux, currently I have published some forks including dwm, st and dmenu. I have written a front-end for Wacom graphics tablets based on dmenu, I am creating extensions and plugins for Vim text editor and also other secondary projects.
 
