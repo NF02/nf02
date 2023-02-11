@@ -22,7 +22,7 @@ Share my videos and my projects or, if you like, give me a very small donation o
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3CDMP9)
 
-![](https://komarev.com/ghpvc/?username=nf02)
+![Visitor Count](https://profile-counter.glitch.me/nf02/count.svg)
 <!--
 **NF02/nf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
