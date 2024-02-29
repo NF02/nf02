@@ -15,7 +15,6 @@ Basically I deal with Unix and Unix-Like systems, mostly Linux, currently I have
 #### Do you want to support me?
 Share my videos and my projects or, if you like, give me a very small donation on Ko-Fi to support new projects.
 
-🎥 Youtube: https://www.youtube.com/c/NFVblog
 
 <a rel="me" href="https://mastodon.cloud/@nfvblog">Mastodon</a>
 
