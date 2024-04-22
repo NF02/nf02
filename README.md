@@ -13,7 +13,7 @@ Basically I deal with Unix and Unix-Like systems, mostly Linux, currently I have
  <!-- ![snake gif](https://github.com/nf02/nf02/blob/output/github-contribution-grid-snake.gif) --> 
 
 #### Do you want to support me?
-Share my videos and my projects or, if you like, give me a very small donation on Ko-Fi to support new projects.
+Share my projects or, if you like, give me a very small donation on Ko-Fi to support new projects.
 
 
 <a rel="me" href="https://mastodon.cloud/@nfvblog">Mastodon</a>
