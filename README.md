@@ -1,11 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+There!!;Welcome+to+NFVblog!!)](https://git.io/typing-svg)
 ```
- _   _ _______     ___     _
-| \ | |  ___\ \   / / |__ | | ___   __ _
-|  \| | |_   \ \ / /| '_ \| |/ _ \ / _` |
-| |\  |  _|   \ V / | |_) | | (_) | (_| |
-|_| \_|_|      \_/  |_.__/|_|\___/ \__, |
-                                   |___/
+░█▀█░█▀▀░█░█░█▀▄░█░░░█▀█░█▀▀
+░█░█░█▀▀░▀▄▀░█▀▄░█░░░█░█░█░█
+░▀░▀░▀░░░░▀░░▀▀░░▀▀▀░▀▀▀░▀▀▀
 ```
 #### What do I do?
 Basically I deal with Unix and Unix-Like systems, mostly Linux, currently I have published some forks including dwm, st and dmenu. I have written a front-end for Wacom graphics tablets based on dmenu, I am creating extensions and plugins for Vim text editor (now I use GNU/Emacs) and also other secondary projects.
