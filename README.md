@@ -20,12 +20,12 @@ Share my projects or, if you like, give me a very small donation on Ko-Fi to sup
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3CDMP9)
 
-![Visitor Count](https://profile-counter.glitch.me/nf02/count.svg)
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 <!--
 **NF02/nf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently study on University of Cagliari
+- 🔭 I’m currently study on Mercatorum University
 
 -->
