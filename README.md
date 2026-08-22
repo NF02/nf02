@@ -19,11 +19,3 @@ Share my projects or, if you like, give me a very small donation on Ko-Fi to sup
 <a rel="me" href="https://mastodon.cloud/@nfvblog">Mastodon</a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3CDMP9)
-
-**NF02/nf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently study on Mercatorum University
-
--->
