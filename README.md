@@ -15,6 +15,7 @@ For the reasons mentioned above, I typically take non-POSIX changes made within 
 #### Do you want to support me?
 Share my projects or, if you like, give me a very small donation on Ko-Fi to support new projects.
 
+Backup: <a href="https://codeberg.org/nfvblog">Codeberg</a>
 
 <a rel="me" href="https://mastodon.cloud/@nfvblog">Mastodon</a>
 
